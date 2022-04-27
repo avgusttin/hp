@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    background: rgba(247, 230, 230, 0);
+    border-bottom: 2px solid greenyellow;
+}
+.description{
+    font-weight: normal;
+    font-style: italic;
+}
+.bold-text{
+    font-weight: bolder;
+    font-size: 20;
+    color: rgb(171, 37, 52);
+}
+.shadow{
+    box-shadow: pink;
+}
+.word-spacing{
+    word-spacing: 20px;
+}
+h2{
+ color: grey;
+}
+h3{
+    color: grey;
+}
+h4{
+    color: grey;
+}
+h5{
+    color: grey;
+}
+h6{
+    color: grey;
+}
+.img1{
+    width: 700px;
+    border-radius: 60px;
+}
+.email {
+    width: 25%;
+    background-color: rgb(246, 240, 244);
+    margin: auto;
+    margin-right: 10px;
+    padding: 15px;
+    padding-top: 15px;
+    padding-right: 0px;
+    border: 2px solid rgb(212, 255, 147);
+}
+.main-title{
+    text-align: center;
+}
+.boxes-wrapper{
+    display: flex;
+}
+.tbl{
+    border: 2px solid   rgb(212, 255, 147);
+    background-color: rgb(255, 240, 242);
+    width: 100%;
+}
+.tbl td{
+    border: 1px solid   grey;
+    padding: 10px;
+}
